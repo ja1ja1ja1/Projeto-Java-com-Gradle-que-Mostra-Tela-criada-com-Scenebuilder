@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="231.0" layoutY="200.0" mnemonicParsing="false" text="Calcular" />
+      <Label layoutX="59.0" layoutY="75.0" text="Funcionario" />
+      <Label layoutX="59.0" layoutY="115.0" text="Salario" />
+      <Label layoutX="59.0" layoutY="160.0" text="Salario Anual:" />
+      <TextField layoutX="134.0" layoutY="71.0" />
+      <TextField layoutX="134.0" layoutY="111.0" />
+      <Label layoutX="134.0" layoutY="160.0" />
+   </children>
+</Pane>
